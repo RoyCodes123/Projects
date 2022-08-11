@@ -1,0 +1,14 @@
+C:\Users\Roy\Projects\MyForm\MyForm\bin\Debug\MyForm.exe.config
+C:\Users\Roy\Projects\MyForm\MyForm\bin\Debug\MyForm.exe
+C:\Users\Roy\Projects\MyForm\MyForm\bin\Debug\MyForm.pdb
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.csproj.AssemblyReference.cache
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.Form1.resources
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.Properties.Resources.resources
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.csproj.GenerateResource.cache
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.csproj.CoreCompileInputs.cache
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.exe
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.pdb
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.Signin.resources
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.HomePage.resources
+C:\Users\Roy\Projects\MyForm\MyForm\obj\Debug\MyForm.CommandBuilderForm.resources
